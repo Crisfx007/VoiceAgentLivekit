@@ -1,0 +1,81 @@
+{
+  "session_id": "20b88d01-a8ae-4f9c-bdec-bc1e34452cfa",
+  "onboarding_data": {
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "phone": "+911234567890",
+    "country": "United States"
+  },
+  "conversation": [
+    {
+      "speaker": "assistant",
+      "text": "Starting onboarding session...",
+      "timestamp": "2025-08-12 21:32:30.510197"
+    },
+    {
+      "speaker": "assistant",
+      "text": "Welcome! I'm here to help you complete a quick onboarding process. I'll need to collect a few pieces of information from you. Let me start by asking for your full name. What should I call you?",
+      "timestamp": "2025-08-12 21:32:33.929078"
+    },
+    {
+      "speaker": "user",
+      "text": "My name is John Doe.",
+      "timestamp": "2025-08-12 21:32:48.975948"
+    },
+    {
+      "speaker": "assistant",
+      "text": "Thank you, John Doe! I've saved your name. Next, could you please provide your email address?",
+      "timestamp": "2025-08-12 21:32:53.880725"
+    },
+    {
+      "speaker": "user",
+      "text": "My email address is john@doe.com.",
+      "timestamp": "2025-08-12 21:33:09.900969"
+    },
+    {
+      "speaker": "assistant",
+      "text": "Thank you for the email, John! I've saved it as john@doe.com. Now, could you please provide your phone number in international format, including the country code?",
+      "timestamp": "2025-08-12 21:33:14.800731"
+    },
+    {
+      "speaker": "user",
+      "text": "My phone number is +91 1234567890.",
+      "timestamp": "2025-08-12 21:33:53.238074"
+    },
+    {
+      "speaker": "assistant",
+      "text": "Thanks, John! I've saved your phone number as +91 1234567890. Now, could you please tell me which country you're in?",
+      "timestamp": "2025-08-12 21:34:13.824793"
+    },
+    {
+      "speaker": "user",
+      "text": "I am from America.",
+      "timestamp": "2025-08-12 21:34:29.348284"
+    },
+    {
+      "speaker": "assistant",
+      "text": "It seems that \"America\" isn't quite the specific country name I need. Could you please specify a country like \"United States\" or \"Canada\"?",
+      "timestamp": "2025-08-12 21:34:32.154469"
+    },
+    {
+      "speaker": "user",
+      "text": "My country is United States of America.",
+      "timestamp": "2025-08-12 21:34:52.808026"
+    },
+    {
+      "speaker": "assistant",
+      "text": "It seems that \"United States of America\" is still not recognized as a valid country name. Please just say \"United States\" instead.",
+      "timestamp": "2025-08-12 21:34:55.275223"
+    },
+    {
+      "speaker": "user",
+      "text": "United States.",
+      "timestamp": "2025-08-12 21:35:13.810622"
+    },
+    {
+      "speaker": "assistant",
+      "text": "Thank you! I've saved your country as United States. Let's recap the information I've collected so far.",
+      "timestamp": "2025-08-12 21:35:18.827717"
+    }
+  ]
+}
