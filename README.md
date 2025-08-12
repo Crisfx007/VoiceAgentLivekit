@@ -43,11 +43,11 @@ It works just like a human onboarding agent:
 
 ## 📂 Project Structure
 
-├── agent.py # Main agent setup and LiveKit session handling
-├── prompts.py # Prompt instructions for onboarding flow
-├── tools.py # Onboarding logic, validation, and JSON storage
-├── requirements.txt # Python dependencies
-└── README.md # This file
+- **agent.py** — Main agent setup and LiveKit session handling  
+- **prompts.py** — Prompt instructions for onboarding flow  
+- **tools.py** — Onboarding logic, validation, and JSON storage  
+- **requirements.txt** — Python dependencies  
+- **README.md** — This file  
 
 ---
 
